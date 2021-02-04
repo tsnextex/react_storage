@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/general/close-circle</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/close-circle" fill="#585858">
+            <path d="M25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 C0,11.1928813 11.1928813,0 25,0 Z M31.4789094,16.3266213 L24.9391247,22.866406 L18.4602152,16.3874966 L16.3517601,18.4959518 L22.8306695,24.9748612 L16.3266213,31.4789094 L18.5210906,33.6733787 L25.0251388,27.1693305 L31.5040482,33.6482399 L33.6125034,31.5397848 L27.133594,25.0608753 L33.6733787,18.5210906 L31.4789094,16.3266213 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

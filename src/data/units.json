@@ -1,0 +1,1212 @@
+[
+    {
+        "name": "PARKING",
+        "items": [
+            {
+                "name": "",
+                "items": [
+                    {
+                        "width": "0",
+                        "length": "0",
+                        "imageUrl": "/img/units/0x0_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "10",
+                        "imageUrl": "/img/units/0x10_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "12",
+                        "imageUrl": "/img/units/0x12_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "15",
+                        "imageUrl": "/img/units/0x15_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "16",
+                        "imageUrl": "/img/units/0x16_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "18",
+                        "imageUrl": "/img/units/0x18_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "30",
+                        "imageUrl": "/img/units/0x30_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "22",
+                        "imageUrl": "/img/units/0x22_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "23",
+                        "imageUrl": "/img/units/0x23_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "24",
+                        "imageUrl": "/img/units/0x24_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "240",
+                        "imageUrl": "/img/units/0x240_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "25",
+                        "imageUrl": "/img/units/0x25_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "26",
+                        "imageUrl": "/img/units/0x26_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "28",
+                        "imageUrl": "/img/units/0x28_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "30",
+                        "imageUrl": "/img/units/0x30_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "320",
+                        "imageUrl": "/img/units/0x320_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "33",
+                        "imageUrl": "/img/units/0x33_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "35",
+                        "imageUrl": "/img/units/0x35_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "38",
+                        "imageUrl": "/img/units/0x38_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "40",
+                        "imageUrl": "/img/units/0x40_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "45",
+                        "imageUrl": "/img/units/0x45_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "49",
+                        "imageUrl": "/img/units/0x49_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "50",
+                        "imageUrl": "/img/units/0x50_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "55",
+                        "imageUrl": "/img/units/0x55_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "60",
+                        "imageUrl": "/img/units/0x60_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "70",
+                        "imageUrl": "/img/units/0x70_storage_unit.png"
+                    },
+                    {
+                        "width": "0",
+                        "length": "75",
+                        "imageUrl": "/img/units/0x75_storage_unit.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CLOSET",
+        "items": [
+            {
+                "name": "REGULAR SIZE CLOSET",
+                "items": [
+                    {
+                        "width": "1",
+                        "length": "1",
+                        "imageUrl": "/img/units/1x1_storage_unit.png"
+                    },
+                    {
+                        "width": "1",
+                        "length": "3",
+                        "imageUrl": "/img/units/1x3_storage_unit.png"
+                    },
+                    {
+                        "width": "2",
+                        "length": "3",
+                        "imageUrl": "/img/units/2x3_storage_unit.png"
+                    },
+                    {
+                        "width": "2",
+                        "length": "4",
+                        "imageUrl": "/img/units/2x4_storage_unit.png"
+                    },
+                    {
+                        "width": "3",
+                        "length": "3",
+                        "imageUrl": "/img/units/3x3_storage_unit.png"
+                    },
+                    {
+                        "width": "2",
+                        "length": "5",
+                        "imageUrl": "/img/units/2x5_storage_unit.png"
+                    },
+                    {
+                        "width": "3.5",
+                        "length": "3.3",
+                        "imageUrl": "/img/units/3.5x3.3_storage_unit.png"
+                    },
+                    {
+                        "width": "3",
+                        "length": "4.8",
+                        "imageUrl": "/img/units/3x4.8_storage_unit.png"
+                    },
+                    {
+                        "width": "3",
+                        "length": "5",
+                        "imageUrl": "/img/units/3x5_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "4",
+                        "imageUrl": "/img/units/4x4_storage_unit.png"
+                    },
+                    {
+                        "width": "3.5",
+                        "length": "5",
+                        "imageUrl": "/img/units/3.5x5_storage_unit.png"
+                    },
+                    {
+                        "width": "3",
+                        "length": "6",
+                        "imageUrl": "/img/units/3x6_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "5",
+                        "imageUrl": "/img/units/4x5_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "6",
+                        "imageUrl": "/img/units/4x6_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "5",
+                        "imageUrl": "/img/units/5x5_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "5.5",
+                        "imageUrl": "/img/units/5x5.5_storage_unit.png"
+                    },
+                    {
+                        "width": "3",
+                        "length": "10",
+                        "imageUrl": "/img/units/3x10_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "6",
+                        "imageUrl": "/img/units/5x6_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "8",
+                        "imageUrl": "/img/units/4x8_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "7",
+                        "imageUrl": "/img/units/5x7_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "9",
+                        "imageUrl": "/img/units/4x9_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "7.5",
+                        "imageUrl": "/img/units/5x7.5_storage_unit.png"
+                    },
+                    {
+                        "width": "5.5",
+                        "length": "7",
+                        "imageUrl": "/img/units/5.5x7_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "10",
+                        "imageUrl": "/img/units/4x10_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "8",
+                        "imageUrl": "/img/units/5x8_storage_unit.png"
+                    },
+                    {
+                        "width": "5.5",
+                        "length": "7.5",
+                        "imageUrl": "/img/units/5.5x7.5_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "8.5",
+                        "imageUrl": "/img/units/5x8.5_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "11",
+                        "imageUrl": "/img/units/4x11_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "9",
+                        "imageUrl": "/img/units/5x9_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "12",
+                        "imageUrl": "/img/units/4x12_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "8",
+                        "imageUrl": "/img/units/6x8_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "7",
+                        "imageUrl": "/img/units/7x7_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "WALK IN CLOSET",
+                "items": [
+                    {
+                        "width": "5",
+                        "length": "10",
+                        "imageUrl": "/img/units/5x10_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "9",
+                        "imageUrl": "/img/units/6x9_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "11",
+                        "imageUrl": "/img/units/5x11_storage_unit.png"
+                    },
+                    {
+                        "width": "5.5",
+                        "length": "10",
+                        "imageUrl": "/img/units/5.5x10_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "8",
+                        "imageUrl": "/img/units/7x8_storage_unit.png"
+                    },
+                    {
+                        "width": "7.5",
+                        "length": "7.5",
+                        "imageUrl": "/img/units/7.5x7.5_storage_unit.png"
+                    },
+                    {
+                        "width": "4",
+                        "length": "15",
+                        "imageUrl": "/img/units/4x15_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "12",
+                        "imageUrl": "/img/units/5x12_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "10",
+                        "imageUrl": "/img/units/6x10_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "9",
+                        "imageUrl": "/img/units/7x9_storage_unit.png"
+                    },
+                    {
+                        "width": "6.4",
+                        "length": "10",
+                        "imageUrl": "/img/units/6.4x10_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "8",
+                        "imageUrl": "/img/units/8x8_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "13",
+                        "imageUrl": "/img/units/5x13_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "14",
+                        "imageUrl": "/img/units/5x14_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "10",
+                        "imageUrl": "/img/units/7x10_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "9",
+                        "imageUrl": "/img/units/8x9_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "15",
+                        "imageUrl": "/img/units/5x15_storage_unit.png"
+                    },
+                    {
+                        "width": "7.5",
+                        "length": "10",
+                        "imageUrl": "/img/units/7.5x10_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "LARGE WALK IN CLOSET",
+                "items": [
+                    {
+                        "width": "7",
+                        "length": "11",
+                        "imageUrl": "/img/units/7x11_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "13",
+                        "imageUrl": "/img/units/6x13_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "10",
+                        "imageUrl": "/img/units/8x10_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "14",
+                        "imageUrl": "/img/units/6x14_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "12",
+                        "imageUrl": "/img/units/7x12_storage_unit.png"
+                    },
+                    {
+                        "width": "8.5",
+                        "length": "10",
+                        "imageUrl": "/img/units/8.5x10_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "12.5",
+                        "imageUrl": "/img/units/7x12.5_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "11",
+                        "imageUrl": "/img/units/8x11_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "15",
+                        "imageUrl": "/img/units/6x15_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "10",
+                        "imageUrl": "/img/units/9x10_storage_unit.png"
+                    },
+                    {
+                        "width": "9.5",
+                        "length": "10",
+                        "imageUrl": "/img/units/9.5x10_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "16",
+                        "imageUrl": "/img/units/6x16_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "12",
+                        "imageUrl": "/img/units/8x12_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "14",
+                        "imageUrl": "/img/units/7x14_storage_unit.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CLOSET, ROOMS",
+        "items": [
+            {
+                "name": "LARGE WALK IN CLOSET, 1 ROOM",
+                "items": [
+                    {
+                        "width": "5",
+                        "length": "20",
+                        "imageUrl": "/img/units/5x20_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "10",
+                        "imageUrl": "/img/units/10x10_storage_unit.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ROOMS",
+        "items": [
+            {
+                "name": "1 ROOM",
+                "items": [
+                    {
+                        "width": "8",
+                        "length": "13",
+                        "imageUrl": "/img/units/8x13_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "15",
+                        "imageUrl": "/img/units/7x15_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "12",
+                        "imageUrl": "/img/units/9x12_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "11",
+                        "imageUrl": "/img/units/10x11_storage_unit.png"
+                    },
+                    {
+                        "width": "7.5",
+                        "length": "15",
+                        "imageUrl": "/img/units/7.5x15_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "13",
+                        "imageUrl": "/img/units/9x13_storage_unit.png"
+                    },
+                    {
+                        "width": "6",
+                        "length": "20",
+                        "imageUrl": "/img/units/6x20_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "15",
+                        "imageUrl": "/img/units/8x15_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "12",
+                        "imageUrl": "/img/units/10x12_storage_unit.png"
+                    },
+                    {
+                        "width": "11",
+                        "length": "11",
+                        "imageUrl": "/img/units/11x11_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "13.5",
+                        "imageUrl": "/img/units/9x13.5_storage_unit.png"
+                    },
+                    {
+                        "width": "5",
+                        "length": "25",
+                        "imageUrl": "/img/units/5x25_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "12.5",
+                        "imageUrl": "/img/units/10x12.5_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "14",
+                        "imageUrl": "/img/units/9x14_storage_unit.png"
+                    },
+                    {
+                        "width": "8.5",
+                        "length": "15",
+                        "imageUrl": "/img/units/8.5x15_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "13",
+                        "imageUrl": "/img/units/10x13_storage_unit.png"
+                    },
+                    {
+                        "width": "11",
+                        "length": "12",
+                        "imageUrl": "/img/units/11x12_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "19",
+                        "imageUrl": "/img/units/7x19_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "15",
+                        "imageUrl": "/img/units/9x15_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "13.5",
+                        "imageUrl": "/img/units/10x13.5_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "17",
+                        "imageUrl": "/img/units/8x17_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "20",
+                        "imageUrl": "/img/units/7x20_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "14",
+                        "imageUrl": "/img/units/10x14_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "16",
+                        "imageUrl": "/img/units/9x16_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "12",
+                        "imageUrl": "/img/units/12x12_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "14.5",
+                        "imageUrl": "/img/units/10x14.5_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "2 ROOMS",
+                "items": [
+                    {
+                        "width": "10",
+                        "length": "15",
+                        "imageUrl": "/img/units/10x15_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "17",
+                        "imageUrl": "/img/units/9x17_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "13",
+                        "imageUrl": "/img/units/12x13_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "20",
+                        "imageUrl": "/img/units/8x20_storage_unit.png"
+                    },
+                    {
+                        "width": "5.5",
+                        "length": "30",
+                        "imageUrl": "/img/units/5.5x30_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "24",
+                        "imageUrl": "/img/units/7x24_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "17",
+                        "imageUrl": "/img/units/10x17_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "17.5",
+                        "imageUrl": "/img/units/10x17.5_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "18",
+                        "imageUrl": "/img/units/10x18_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "15",
+                        "imageUrl": "/img/units/12x15_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "23",
+                        "imageUrl": "/img/units/8x23_storage_unit.png"
+                    },
+                    {
+                        "width": "12.5",
+                        "length": "15",
+                        "imageUrl": "/img/units/12.5x15_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "19",
+                        "imageUrl": "/img/units/10x19_storage_unit.png"
+                    },
+                    {
+                        "width": "13",
+                        "length": "15",
+                        "imageUrl": "/img/units/13x15_storage_unit.png"
+                    },
+                    {
+                        "width": "14",
+                        "length": "14",
+                        "imageUrl": "/img/units/14x14_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "25",
+                        "imageUrl": "/img/units/8x25_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "20",
+                        "imageUrl": "/img/units/10x20_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "17",
+                        "imageUrl": "/img/units/12x17_storage_unit.png"
+                    },
+                    {
+                        "width": "13",
+                        "length": "16",
+                        "imageUrl": "/img/units/13x16_storage_unit.png"
+                    },
+                    {
+                        "width": "7",
+                        "length": "30",
+                        "imageUrl": "/img/units/7x30_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "21",
+                        "imageUrl": "/img/units/10x21_storage_unit.png"
+                    },
+                    {
+                        "width": "14",
+                        "length": "15",
+                        "imageUrl": "/img/units/14x15_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "21.5",
+                        "imageUrl": "/img/units/10x21.5_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "24",
+                        "imageUrl": "/img/units/9x24_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "22",
+                        "imageUrl": "/img/units/10x22_storage_unit.png"
+                    },
+                    {
+                        "width": "11",
+                        "length": "20",
+                        "imageUrl": "/img/units/11x20_storage_unit.png"
+                    },
+                    {
+                        "width": "9",
+                        "length": "25",
+                        "imageUrl": "/img/units/9x25_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "22.5",
+                        "imageUrl": "/img/units/10x22.5_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "15",
+                        "imageUrl": "/img/units/15x15_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "23",
+                        "imageUrl": "/img/units/10x23_storage_unit.png"
+                    },
+                    {
+                        "width": "8",
+                        "length": "30",
+                        "imageUrl": "/img/units/8x30_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "24",
+                        "imageUrl": "/img/units/10x24_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "20",
+                        "imageUrl": "/img/units/12x20_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "16",
+                        "imageUrl": "/img/units/15x16_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "3 ROOMS",
+                "items": [
+                    {
+                        "width": "10",
+                        "length": "25",
+                        "imageUrl": "/img/units/10x25_storage_unit.png"
+                    },
+                    {
+                        "width": "12.5",
+                        "length": "20",
+                        "imageUrl": "/img/units/12.5x20_storage_unit.png"
+                    },
+                    {
+                        "width": "11",
+                        "length": "23",
+                        "imageUrl": "/img/units/11x23_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "17",
+                        "imageUrl": "/img/units/15x17_storage_unit.png"
+                    },
+                    {
+                        "width": "13",
+                        "length": "20",
+                        "imageUrl": "/img/units/13x20_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "22",
+                        "imageUrl": "/img/units/12x22_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "18",
+                        "imageUrl": "/img/units/15x18_storage_unit.png"
+                    },
+                    {
+                        "width": "11",
+                        "length": "25",
+                        "imageUrl": "/img/units/11x25_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "28",
+                        "imageUrl": "/img/units/10x28_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "24",
+                        "imageUrl": "/img/units/12x24_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "30",
+                        "imageUrl": "/img/units/10x30_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "25",
+                        "imageUrl": "/img/units/12x25_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "20",
+                        "imageUrl": "/img/units/15x20_storage_unit.png"
+                    },
+                    {
+                        "width": "16",
+                        "length": "20",
+                        "imageUrl": "/img/units/16x20_storage_unit.png"
+                    },
+                    {
+                        "width": "11",
+                        "length": "30",
+                        "imageUrl": "/img/units/11x30_storage_unit.png"
+                    },
+                    {
+                        "width": "17",
+                        "length": "20",
+                        "imageUrl": "/img/units/17x20_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "35",
+                        "imageUrl": "/img/units/10x35_storage_unit.png"
+                    },
+                    {
+                        "width": "14",
+                        "length": "25",
+                        "imageUrl": "/img/units/14x25_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "4 ROOMS",
+                "items": [
+                    {
+                        "width": "12",
+                        "length": "30",
+                        "imageUrl": "/img/units/12x30_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "25",
+                        "imageUrl": "/img/units/15x25_storage_unit.png"
+                    },
+                    {
+                        "width": "13",
+                        "length": "30",
+                        "imageUrl": "/img/units/13x30_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "40",
+                        "imageUrl": "/img/units/10x40_storage_unit.png"
+                    },
+                    {
+                        "width": "16",
+                        "length": "25",
+                        "imageUrl": "/img/units/16x25_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "20",
+                        "imageUrl": "/img/units/20x20_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "35",
+                        "imageUrl": "/img/units/12x35_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "28",
+                        "imageUrl": "/img/units/15x28_storage_unit.png"
+                    },
+                    {
+                        "width": "17",
+                        "length": "25",
+                        "imageUrl": "/img/units/17x25_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "5 ROOMS",
+                "items": [
+                    {
+                        "width": "10",
+                        "length": "45",
+                        "imageUrl": "/img/units/10x45_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "30",
+                        "imageUrl": "/img/units/15x30_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "40",
+                        "imageUrl": "/img/units/12x40_storage_unit.png"
+                    },
+                    {
+                        "width": "16",
+                        "length": "30",
+                        "imageUrl": "/img/units/16x30_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "24",
+                        "imageUrl": "/img/units/20x24_storage_unit.png"
+                    },
+                    {
+                        "width": "10",
+                        "length": "50",
+                        "imageUrl": "/img/units/10x50_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "25",
+                        "imageUrl": "/img/units/20x25_storage_unit.png"
+                    },
+                    {
+                        "width": "18",
+                        "length": "28",
+                        "imageUrl": "/img/units/18x28_storage_unit.png"
+                    },
+                    {
+                        "width": "18",
+                        "length": "29",
+                        "imageUrl": "/img/units/18x29_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "35",
+                        "imageUrl": "/img/units/15x35_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "6 ROOMS",
+                "items": [
+                    {
+                        "width": "10",
+                        "length": "55",
+                        "imageUrl": "/img/units/10x55_storage_unit.png"
+                    },
+                    {
+                        "width": "23",
+                        "length": "25",
+                        "imageUrl": "/img/units/23x25_storage_unit.png"
+                    },
+                    {
+                        "width": "12",
+                        "length": "50",
+                        "imageUrl": "/img/units/12x50_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "40",
+                        "imageUrl": "/img/units/15x40_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "30",
+                        "imageUrl": "/img/units/20x30_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "7 ROOMS",
+                "items": [
+                    {
+                        "width": "10",
+                        "length": "65",
+                        "imageUrl": "/img/units/10x65_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "33",
+                        "imageUrl": "/img/units/20x33_storage_unit.png"
+                    },
+                    {
+                        "width": "24",
+                        "length": "28",
+                        "imageUrl": "/img/units/24x28_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "45",
+                        "imageUrl": "/img/units/15x45_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "35",
+                        "imageUrl": "/img/units/20x35_storage_unit.png"
+                    },
+                    {
+                        "width": "15",
+                        "length": "50",
+                        "imageUrl": "/img/units/15x50_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "8 ROOMS",
+                "items": [
+                    {
+                        "width": "25",
+                        "length": "30",
+                        "imageUrl": "/img/units/25x30_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "40",
+                        "imageUrl": "/img/units/20x40_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "9 ROOMS",
+                "items": [
+                    {
+                        "width": "18",
+                        "length": "50",
+                        "imageUrl": "/img/units/18x50_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "45",
+                        "imageUrl": "/img/units/20x45_storage_unit.png"
+                    },
+                    {
+                        "width": "30",
+                        "length": "30",
+                        "imageUrl": "/img/units/30x30_storage_unit.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BUILDING, ROOMS",
+        "items": [
+            {
+                "name": "SMALL BUSINESS, 10 ROOMS",
+                "items": [
+                    {
+                        "width": "20",
+                        "length": "50",
+                        "imageUrl": "/img/units/20x50_storage_unit.png"
+                    },
+                    {
+                        "width": "20",
+                        "length": "60",
+                        "imageUrl": "/img/units/20x60_storage_unit.png"
+                    },
+                    {
+                        "width": "30",
+                        "length": "40",
+                        "imageUrl": "/img/units/30x40_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "SMALL BUSINESS",
+                "items": [
+                    {
+                        "width": "25",
+                        "length": "50",
+                        "imageUrl": "/img/units/25x50_storage_unit.png"
+                    },
+                    {
+                        "width": "18",
+                        "length": "75",
+                        "imageUrl": "/img/units/18x75_storage_unit.png"
+                    },
+                    {
+                        "width": "30",
+                        "length": "50",
+                        "imageUrl": "/img/units/30x50_storage_unit.png"
+                    }
+                ]
+            },
+            {
+                "name": "LARGE BUSINESS",
+                "items": [
+                    {
+                        "width": "30",
+                        "length": "60",
+                        "imageUrl": "/img/units/30x60_storage_unit.png"
+                    },
+                    {
+                        "width": "32",
+                        "length": "64",
+                        "imageUrl": "/img/units/32x64_storage_unit.png"
+                    },
+                    {
+                        "width": "50",
+                        "length": "50",
+                        "imageUrl": "/img/units/50x50_storage_unit.png"
+                    },
+                    {
+                        "width": "50",
+                        "length": "60",
+                        "imageUrl": "/img/units/50x60_storage_unit.png"
+                    },
+                    {
+                        "width": "50",
+                        "length": "90",
+                        "imageUrl": "/img/units/50x90_storage_unit.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BUILDING",
+        "items": [
+            {
+                "name": "LARGE BUSINESS",
+                "items": [
+                    {
+                        "width": "65",
+                        "length": "125",
+                        "imageUrl": "/img/units/65x125_storage_unit.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

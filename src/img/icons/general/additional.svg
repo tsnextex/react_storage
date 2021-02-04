@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/general/additional</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/additional" fill="#CE3138">
+            <path d="M25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 C0,11.1928813 11.1928813,0 25,0 Z M26.5517241,14.2857143 L23.4482759,14.2857143 L23.4482759,23.5343666 L14.2857143,23.5343666 L14.2857143,26.5161725 L23.4482759,26.5161725 L23.4482759,35.7142857 L26.5517241,35.7142857 L26.5517241,26.5161725 L35.7142857,26.5161725 L35.7142857,23.5343666 L26.5517241,23.5343666 L26.5517241,14.2857143 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

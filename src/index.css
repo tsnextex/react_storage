@@ -1,0 +1,22 @@
+@import '~semantic-ui-css/semantic.min.css';
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+body, h1, h2, h3, h4, h5, p, div, section, input, article, span, textarea, select, button {
+  font-family: "Montserrat" !important;
+}
+
+body > #root {
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/features/first-floor</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/features/first-floor">
+            <circle id="Oval-Copy" fill="#585858" cx="25" cy="25" r="25"></circle>
+            <path d="M20.2066943,17.0565908 L20.2066943,35 L16.0540767,35 L16.0540767,20.3889382 L12.4653949,20.3889382 L12.4653949,17.0565908 L20.2066943,17.0565908 Z M28.6144632,20.3889382 L28.6144632,25.1311249 L36.9196983,25.1311249 L36.9196983,28.4634723 L28.6144632,28.4634723 L28.6144632,35 L24.4618456,35 L24.4618456,17.0565908 L38.0219363,17.0565908 L38.0219363,20.3889382 L28.6144632,20.3889382 Z" id="1F" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

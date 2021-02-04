@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/general/no-access</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/no-access" fill="#CE3138">
+            <path d="M25,0 C38.8,0 50,11.2 50,25 C50,38.8 38.8,50 25,50 C11.175,50 0,38.75 0,25 C0,11.2 11.2,0 25,0 Z M41.0181847,13.0187507 L13.0187507,41.0181847 C16.3576276,43.5190362 20.5050694,45 25,45 C36.05,45 45,36.05 45,25 C45,20.5050694 43.5190362,16.3576276 41.0181847,13.0187507 Z M25,5 C13.95,5 5,13.95 5,25 C5,29.7512958 6.65471275,34.1143349 9.41958553,37.5445647 L37.5445647,9.41958553 C34.1143349,6.65471275 29.7512958,5 25,5 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

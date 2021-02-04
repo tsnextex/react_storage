@@ -1,0 +1,109 @@
+{
+  "name": "react-butter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/link-context": "^2.0.0-beta.3",
+    "@apollo/react-hooks": "^3.1.5",
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@date-io/date-fns": "^1.3.13",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@material-ui/pickers": "^3.2.10",
+    "@material-ui/styles": "^4.10.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.8.6",
+    "apollo-boost": "^0.4.9",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-link": "^1.2.14",
+    "apollo-link-http": "^1.5.17",
+    "axios": "^0.20.0",
+    "base64url": "^3.0.1",
+    "body-parser": "^1.19.0",
+    "buttercms": "^1.2.2",
+    "card-validator": "^8.1.0",
+    "classnames": "^2.2.6",
+    "clsx": "^1.1.1",
+    "cookie-parser": "^1.4.5",
+    "core-js": "^2.6.11",
+    "cors": "^2.8.5",
+    "cross-fetch": "^3.0.6",
+    "date-fns": "^2.15.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.3",
+    "google-maps-react": "^2.0.6",
+    "graphql": "^14.7.0",
+    "html-react-parser": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "node-babel": "^0.1.2",
+    "parse-domain": "^3.0.2",
+    "pure-react-carousel": "^1.27.6",
+    "ramda": "^0.27.0",
+    "react": "^16.13.1",
+    "react-apollo": "^3.1.5",
+    "react-dom": "^16.13.1",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-scroll": "^1.8.1",
+    "react-swipeable": "^5.5.1",
+    "react-swipeable-views": "^0.13.9",
+    "rimraf": "^3.0.2",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.1",
+    "styled-components": "^5.2.0",
+    "timeout-middleware": "^0.6.1",
+    "typeface-montserrat": "0.0.75",
+    "typeface-roboto": "0.0.75",
+    "validator": "^13.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build:server": "npm run clean & npm run transpile",
+    "server": "node ./dist-server/index.js",
+    "dev": "NODE_ENV=development npm run build:server & NODE_ENV=development npm run server",
+    "prod": "NODE_ENV=production npm run build:server & NODE_ENV=production npm run server",
+    "transpile": "babel ./server --out-dir dist-server",
+    "clean": "rimraf dist-server"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "babel": {
+    "plugins": [
+      [
+        "@babel/plugin-transform-runtime"
+      ]
+    ],
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "useBuiltIns": "entry"
+        }
+      ]
+    ]
+  },
+  "proxy": "http://localhost:5000",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

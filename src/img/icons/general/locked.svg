@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/general/locked</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/locked" fill="#585858">
+            <path d="M37.25,20.8333333 L37.25,12.5 C37.25,5.59791667 31.6520833,0 24.75,0 C17.8479167,0 12.25,5.59791667 12.25,12.5 L12.25,20.8333333 L6,20.8333333 L6,50 L43.5,50 L43.5,20.8333333 L37.25,20.8333333 Z M16.4166667,12.5 C16.4166667,7.90416667 20.1541667,4.16666667 24.75,4.16666667 C29.34375,4.16666667 33.0833333,7.90416667 33.0833333,12.5 L33.0833333,20.8333333 L16.4166667,20.8333333 L16.4166667,12.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

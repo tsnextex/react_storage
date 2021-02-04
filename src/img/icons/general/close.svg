@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/general/close</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/close" fill="#585858">
+            <polygon id="+" transform="translate(25.000000, 25.000000) rotate(45.000000) translate(-25.000000, -25.000000) " points="28.6206897 50 28.6206897 28.5377358 50 28.5377358 50 21.5801887 28.6206897 21.5801887 28.6206897 0 21.3793103 0 21.3793103 21.5801887 0 21.5801887 0 28.5377358 21.3793103 28.5377358 21.3793103 50"></polygon>
+        </g>
+    </g>
+</svg>

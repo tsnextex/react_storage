@@ -1,0 +1,19 @@
+pipeline {
+     agent any
+     stages {
+        stage("Build") {
+            steps {
+                sh "sudo npm install"
+                sh "sudo npm run clean"
+                sh "sudo npm run build"
+            }
+        }
+        stage("Deploy") {
+            steps {
+                sh "ssh centos@54.174.219.104 rm -rf /var/www/react/test/"
+                sh "ssh centos@54.174.219.104 sudo mkdir -p /var/www/react"
+                sh "scp -r test ssh centos@54.174.219.104:/var/www/react/test/"
+            }
+        }
+    }
+}
